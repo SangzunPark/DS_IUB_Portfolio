@@ -2,18 +2,19 @@
 
 ##  Repository Structure
 
-Boutique-LLM-Basic/
-├── LLM_Experiments/ # Experiments with different LLM configurations
-│ ├── LLM_Basic_Mistral.ipynb / .py
-│ ├── LLM_Bert_Mistral.ipynb / .py
-│ ├── LLM_Bert_Agent_Mistral.ipynb / .py
-│ └── LLM_Spacy_Mistral.ipynb / .py
-├── Chunking_Experiments/ # Experiments on chunking strategies
-│ ├── Chunking_note.ipynb / .py
-│ ├── LLM_Customized_SMChunking.ipynb / .py
-│ ├── LLM_NoCustomizing_Chunking.ipynb / .py
-│ └── LLM_NoCustomizing_SMChunking.ipynb / .py
-└── result_report.pdf
+- `LLM_Experiments/`  
+  - `LLM_Basic_Mistral.ipynb` / `.py`
+  - `LLM_Bert_Mistral.ipynb` / `.py`
+  - `LLM_Bert_Agent_Mistral.ipynb` / `.py`
+  - `LLM_Spacy_Mistral.ipynb` / `.py`
+
+- `Chunking_Experiments/`  
+  - `Chunking_note.ipynb` / `.py`
+  - `LLM_Customized_SMChunking.ipynb` / `.py`
+  - `LLM_NoCustomizing_Chunking.ipynb` / `.py`
+  - `LLM_NoCustomizing_SMChunking.ipynb` / `.py`
+
+- `result_report.pdf`
 ---
 
 ##  Project Purpose
