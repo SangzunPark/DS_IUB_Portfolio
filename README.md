@@ -10,7 +10,8 @@ This is my personal data science portfolio including coursework, assignments, an
 - **04_Machine_Learning**: ML models using scikit-learn
 - **05_Deep_Learning**: Deep learning with TensorFlow/PyTorch
 - **06_Web_Scraping**: Web data collection and parsing
-- **07_Capstone_LLM**: Capstone project with LLMs
+- **07_Data_Analysis_Viz**: Data analysis and viz 
+- **08_Capstone_LLM**: Capstone project with LLMs
 
 ## How to Navigate
 
@@ -18,3 +19,4 @@ Each folder contains:
 - Jupyter notebooks (`.ipynb`)
 - Python scripts (`.py`)
 - README.md with project descriptions
+- PDF file with project description and results
